@@ -7,17 +7,3 @@ target/
 bin/
 class/
 classes/
-
-# Bỏ qua metadata cá nhân và file tạm
-.metadata/
-.settings/
-*.screenshot
-*.screenshot.metadata
-*.bak
-*.log
-*.cache
-*.snapshots
-
-# Bỏ qua thư mục tạm của Talend Studio
-temp/
-workspace/
